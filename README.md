@@ -40,6 +40,8 @@ https://www.youtube.com/watch?v=QUvxrzINj5Q
 
 #Para hacer que funque el responsive: 
 
-<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+"<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">"
+
+#Deploy
 
 [![Deploy on Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
